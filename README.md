@@ -22,6 +22,9 @@ implementing robust blockchain solutions while prioritizing efficient developmen
 maintaining a keen focus on security. Possessing a diverse skill set that encompasses penetration testing
 techniques, networking, and leveraging maximal extractable value in blockchain systems
   </p>
+  <p>
+    Rain == Flowers
+  </p>
   </div>
 <div id="badges">
   <a href="your-linkedin-URL">
