@@ -1,36 +1,44 @@
-### Hi there 👋
-
-<!--
-**bluekornchips/bluekornchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
   <p>
-    Results-driven blockchain enthusiast with a proven track record in private blockchain creation, smart
-contract development, and a strong commitment to decentralization. Specializing in designing and
-implementing robust blockchain solutions while prioritizing efficient development practices and
-maintaining a keen focus on security. Possessing a diverse skill set that encompasses penetration testing
-techniques, networking, and leveraging maximal extractable value in blockchain systems
+    SWE & Platform Engineer with 10+ years of experience in DevOps, site reliability, SDLC, platform tooling, and management. Skilled in building scalable systems and leading teams through complex projects. Passionate about efficient, secure coding and creating collaborative environments. 🌻
   </p>
+<div>
+  <h2>DevOps</h2>
   <p>
+    <img src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
+    <img src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    <img src="https://img.shields.io/badge/-Terraform-blue?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+    <img src="https://img.shields.io/badge/-Concourse_CI-lightgreen?style=flat-square&logo=concourse&logoColor=white" alt="Concourse CI Badge"/>
+    <img src="https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm&logoColor=white" alt="Helm Badge"/>
+    <img src="https://img.shields.io/badge/-ArgoCD-red?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD Badge"/>
+  </p>
+
+  <h2>Languages</h2>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/-Csharp-blue?style=flat-square&logo=csharp&logoColor=white" alt="Csharp Badge"/>
+    <img src="https://img.shields.io/badge/-Shell-gray?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Badge"/>
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  </p>
+
+  <h2>Frameworks & Software</h2>
+  <p>
+    <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+    <img src="https://img.shields.io/badge/-Solidity-gray?style=flat-square&logo=solidity&logoColor=white" alt="Solidity Badge"/>
+  </p>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tristankornacki/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div>
+    <p>
     Rain == Flowers
   </p>
-  </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="https://www.linkedin.com/in/tristankornacki"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" href="https://twitter.com/sadflowers0x"/>
-  </a>
 </div>
