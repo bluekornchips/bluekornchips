@@ -2,9 +2,7 @@
 
 Platform & DevOps Engineer with a combined 10+ years of experience in CI/CD, infrastructure-as-code, Kubernetes, and cloud-native operations. Specializes in scalable systems, secure deployment pipelines, and developer platform tooling.
 
----
-
-## 🛠️ Tooling
+## Tooling
 
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -16,9 +14,7 @@ Platform & DevOps Engineer with a combined 10+ years of experience in CI/CD, inf
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Slack API](https://img.shields.io/badge/-Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
 
----
-
-## 💻 Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-Csharp-blue?style=flat-square&logo=csharp&logoColor=white)
