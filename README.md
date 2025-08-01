@@ -1,6 +1,10 @@
 # Bluekornchips
 
-Software & DevOps Engineer with 11 years of experience in CI/CD, infrastructure-as-code, and cloud-native operations. Specializes in scalable systems and developer platform tooling.
+Software & DevOps Engineer. 
+
+Focused on CI/CD, infrastructure-as-code, developer enablement, and platform engineering.
+
+Never leaves home without bash, ask, grep, and sed.
 
 ## Tooling
 
