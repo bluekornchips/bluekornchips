@@ -60,15 +60,15 @@ Never leaves home without bash, ask, grep, and sed. If you can't test it, you ca
 
 ### [Gandalf](https://github.com/bluekornchips/gandalf) - MCP Server for Agentic Development
 
-Cross-platform conversation aggregation for AI-assisted development tools (Cursor, Claude Code). Provides intelligent conversation history analysis and context-aware development assistance.
+Cross-platform conversation aggregation for AI-assisted development tools (Cursor, Claude Code). Provides intelligent conversation history analysis and context-aware development assistance. Features comprehensive testing with both Python and Bash test suites.
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-purple?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Tests](https://img.shields.io/badge/-1118_tests-green?style=flat-square)
+![Tests](https://img.shields.io/badge/-295_tests-green?style=flat-square)
 
 ### [Zangarmarsh](https://github.com/bluekornchips/zangarmarsh) - Shell Profile Automation
 
-Cross-platform shell configuration for Bash & Zsh with Git branch display, Kubernetes context, and development tools. Features comprehensive testing with 213+ BATS tests covering all functionality.
+Cross-platform shell configuration for Bash & Zsh with Git branch display, Kubernetes context, and development tools. Features comprehensive testing with BATS tests covering all functionality.
 
 Key Features:
 
@@ -79,3 +79,21 @@ Key Features:
 
 ![Shell](https://img.shields.io/badge/-Bash%20%7C%20Zsh-blue?style=flat-square&logo=gnubash&logoColor=white)
 ![Platform](https://img.shields.io/badge/-macOS%20%7C%20Linux%20%7C%20WSL-green?style=flat-square&logo=linux&logoColor=white)
+![Tests](https://img.shields.io/badge/-183_tests-green?style=flat-square)
+
+### [Send to Slack](https://github.com/bluekornchips/send-to-slack) - Slack Block Kit CLI Tool
+
+Bash program designed to send block kit content to Slack via the Slack Web API. Lightweight, cross-platform tool for multi-language projects that need feature parity without language-specific dependencies.
+
+Key Features:
+
+- Slack Block Kit support with native and keyed formats
+- File uploads with automatic image or rich-text block creation
+- Crossposting with permalinks and thread replies
+- Input flexibility: stdin, files, or embedded JSON
+- Dry-run mode, health checks, and debug logging
+- Concourse CI resource type support for pipeline notifications
+
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&logoColor=white)
+![Slack API](https://img.shields.io/badge/-Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Tests](https://img.shields.io/badge/-468_tests-green?style=flat-square)
