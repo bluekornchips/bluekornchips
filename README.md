@@ -64,7 +64,7 @@ Never leaves home without bash, ask, grep, and sed. If you can't test it, you ca
 
 ## Projects
 
-### [Zangarmarsh](https://github.com/bluekornchips/zangarmarsh) - Shell Profile Automation
+### [Zangarmarsh](https://github.com/bluekornchips/zangarmarsh), Shell Profile Automation
 
 Shell profile automation for Bash and Zsh with prompt enhancements, platform detection, and development tooling.
 
@@ -76,7 +76,7 @@ Highlights:
 - Quest Log tool that generates Cursor rules and commands from JSON schema
 - Trilliax cleanup tool that removes generated files and build artifacts
 
-### [Send to Slack](https://github.com/bluekornchips/send-to-slack) - Slack Block Kit CLI Tool
+### [Send to Slack](https://github.com/bluekornchips/send-to-slack), Slack Block Kit CLI Tool
 
 Bash program designed to send block kit content to Slack via the Slack Web API. Lightweight, cross-platform tool for multi-language projects that need feature parity without language-specific dependencies.
 
@@ -99,7 +99,7 @@ Highlights:
 - Conversation recall with keyword search and export
 - CLI for install, server control, and registry management
 
-### [TellMeAboutATimeWhen](https://github.com/bluekornchips/TellMeAboutATimeWhen) - Git Commit Analyzer
+### [TellMeAboutATimeWhen](https://github.com/bluekornchips/TellMeAboutATimeWhen), Git Commit Analyzer
 
 Bash tool that analyzes Git commits by repository, branch, and author with optional GitHub PR detail output.
 
@@ -109,7 +109,7 @@ Highlights:
 - Paginated output files with commit details and changed files
 - Optional GitHub integration via gh and jq
 
-### [Familiar](https://github.com/bluekornchips/familiar) - Docker and ngrok Bridge for Cursor IDE
+### [Familiar](https://github.com/bluekornchips/familiar), Docker and ngrok Bridge for Cursor IDE
 
 Runs Ollama models in Docker and exposes them via ngrok for Cursor IDE MCP access.
 
@@ -121,7 +121,7 @@ Highlights:
 
 
 
-### [auryouready](https://github.com/bluekornchips/auryouready) - AUR Package Workspace
+### [auryouready](https://github.com/bluekornchips/auryouready), AUR Package Workspace
 
 Workspace for Arch Linux AUR-style packages with PKGBUILD files and build helpers.
 
