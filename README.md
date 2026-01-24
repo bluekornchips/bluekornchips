@@ -2,7 +2,7 @@
 
 Software & DevOps Engineer focused on CI/CD, infrastructure-as-code, developer enablement, and platform engineering.
 
-Never leaves home without bash, ask, grep, and sed. If you can't test it, you can't prove it.
+Never leaves home without bash, awk, grep, and sed. If you can't test it, you can't prove it.
 
 ## Contact
 
