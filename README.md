@@ -8,7 +8,7 @@ Never leaves home without bash, awk, grep, and sed. If you can't test it, you ca
 
 - Email: [mail@tristank.ca](mailto:mail+removethisifyouarehuman@tristank.ca)
 - GitHub: [@bluekornchips](https://github.com/bluekornchips)
-- LinkedIn: [Tristan K](https://linkedin.com/in/tristank)
+- LinkedIn: [Tristan](https://linkedin.com/in/tristank)
 
 ## Tech Stack
 
@@ -91,35 +91,25 @@ Highlights:
 
 ### [Gandalf](https://github.com/bluekornchips/gandalf), MCP Server for Agentic Tools
 
-MCP server that aggregates conversation history from Cursor and Claude Code for AI-assisted development.
+Model Context Protocol (MCP) server that aggregates conversation history from Cursor and Claude Code for AI-assisted development.
 
 Highlights:
 
-- JSON-RPC MCP server with tool registry and query tools
-- Conversation recall with keyword search and export
-- CLI for install, server control, and registry management
+- JSON-RPC MCP server with dynamic tool registry
+- Conversation recall from Cursor (SQLite) and Claude Code (JSONL)
+- CLI for installation, server control, and registry management
+- Zero-configuration setup with intelligent defaults
 
 ### [TellMeAboutATimeWhen](https://github.com/bluekornchips/TellMeAboutATimeWhen), Git Commit Analyzer
 
-Bash tool that analyzes Git commits by repository, branch, and author with optional GitHub PR detail output.
+Git commit analyzer that extracts commit details, GitHub pull requests, and JIRA ticket information for a specific author.
 
 Highlights:
 
-- Date range filters with single date or range
-- Paginated output files with commit details and changed files
-- Optional GitHub integration via gh and jq
-
-### [Familiar](https://github.com/bluekornchips/familiar), Docker and ngrok Bridge for Cursor IDE
-
-Runs Ollama models in Docker and exposes them via ngrok for Cursor IDE MCP access.
-
-Highlights:
-
-- Dependency checks and interactive model selection
-- Automatic model download and container management
-- Public tunnel URL output for IDE configuration
-
-
+- Filters commits by author, date range, or specific SHA
+- Generates detailed output with diffs, PR metadata, and JIRA tickets
+- Integration with GitHub CLI and Atlassian CLI
+- Standalone tools for PR and ticket lookups
 
 ### [auryouready](https://github.com/bluekornchips/auryouready), AUR Package Workspace
 
@@ -128,5 +118,5 @@ Workspace for Arch Linux AUR-style packages with PKGBUILD files and build helper
 Highlights:
 
 - Repack packages for Cursor, Google Chrome, Signal Desktop, and Synology Drive
-- shfmt source build and a hello-world starter template
-- Local build workflow via makepkg and base-devel tooling
+- Source build for shfmt and starter templates
+- Local build workflow via makepkg with artifact management
