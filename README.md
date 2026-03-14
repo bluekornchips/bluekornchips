@@ -1,14 +1,14 @@
 # Bluekornchips
 
-Software & DevOps Engineer focused on CI/CD, infrastructure-as-code, developer enablement, and platform engineering.
+Platform and full-stack engineer. AWS, Kubernetes, Terraform in production. Bash-first tooling, CI/CD pipelines, and AI-assisted development workflows.
 
-Never leaves home without bash, awk, grep, and sed. If you can't test it, you can't prove it.
+Never leaves home without bash, awk, grep, jq, and sed. If you can't test it, you can't prove it.
 
 ## Contact
 
 - Email: [mail@tristank.ca](mailto:mail+removethisifyouarehuman@tristank.ca)
 - GitHub: [@bluekornchips](https://github.com/bluekornchips)
-- LinkedIn: [Tristan](https://linkedin.com/in/tristank)
+- LinkedIn: [Tristan K](https://linkedin.com/in/tristank)
 
 ## Tech Stack
 
@@ -51,17 +51,6 @@ Never leaves home without bash, awk, grep, and sed. If you can't test it, you ca
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 
-### DevOps & Infrastructure
-
-- CI/CD: GitHub Actions, Concourse CI, ArgoCD
-- Containerization: Docker, Kubernetes
-- Infrastructure as Code: Terraform, Helm
-- Packaging: Arch Linux AUR
-- Protocol: MCP
-- Monitoring: Datadog, Elasticsearch, Kibana, Logstash
-- Cloud Platforms: AWS, Azure
-- Message Queues: RabbitMQ
-
 ## Projects
 
 ### [Zangarmarsh](https://github.com/bluekornchips/zangarmarsh), Shell Profile Automation
@@ -75,6 +64,9 @@ Highlights:
 - SSH agent setup with helpers for NVM and Python virtual environments
 - Quest Log tool that generates Cursor rules and commands from JSON schema
 - Trilliax cleanup tool that removes generated files and build artifacts
+- Hearthstone save/restore tool for shell state snapshots
+- Ice Block emergency shell recovery
+- Talent Calculator for skill tracking
 
 ### [Send to Slack](https://github.com/bluekornchips/send-to-slack), Slack Block Kit CLI Tool
 
@@ -91,32 +83,31 @@ Highlights:
 
 ### [Gandalf](https://github.com/bluekornchips/gandalf), MCP Server for Agentic Tools
 
-Model Context Protocol (MCP) server that aggregates conversation history from Cursor and Claude Code for AI-assisted development.
+MCP 2025-06-18 compliant server that aggregates conversation history from Cursor and Claude Code for AI-assisted development.
 
 Highlights:
 
-- JSON-RPC MCP server with dynamic tool registry
-- Conversation recall from Cursor (SQLite) and Claude Code (JSONL)
-- CLI for installation, server control, and registry management
-- Zero-configuration setup with intelligent defaults
+- JSON-RPC MCP server with tool registry and query tools
+- Conversation recall with keyword search and export
+- CLI for install, server control, and registry management
 
 ### [TellMeAboutATimeWhen](https://github.com/bluekornchips/TellMeAboutATimeWhen), Git Commit Analyzer
 
-Git commit analyzer that extracts commit details, GitHub pull requests, and JIRA ticket information for a specific author.
+Bash tool that analyzes Git commits by repository, branch, and author with optional GitHub PR detail output.
 
 Highlights:
 
-- Filters commits by author, date range, or specific SHA
-- Generates detailed output with diffs, PR metadata, and JIRA tickets
-- Integration with GitHub CLI and Atlassian CLI
-- Standalone tools for PR and ticket lookups
+- Date range filters with single date or range
+- Paginated output files with commit details and changed files
+- Optional GitHub integration via gh and jq
+- JIRA ticket extraction via Atlassian CLI for commits that reference ticket IDs
 
-### [auryouready](https://github.com/bluekornchips/auryouready), AUR Package Workspace
+### [auryouready](https://github.com/bluekornchips/auryouready), User AUR Packages
 
-Workspace for Arch Linux AUR-style packages with PKGBUILD files and build helpers.
+Workspace for user-specific AUR-style packages. Each package has its own folder with a PKGBUILD and helpers for local builds or sharing.
 
 Highlights:
 
-- Repack packages for Cursor, Google Chrome, Signal Desktop, and Synology Drive
-- Source build for shfmt and starter templates
-- Local build workflow via makepkg with artifact management
+- Repacks: Cursor IDE, Google Chrome, Signal Desktop, Synology Drive Client
+- shfmt source build and examples/hello-world starter template
+- Redirect build artifacts via PKGDEST/SRCDEST/LOGDEST/BUILDDIR for clean output
